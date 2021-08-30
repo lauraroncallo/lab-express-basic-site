@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color:whitesmoke;
+    display: block;
+    margin: 50px 100px 50px 100px;
+}
+
+.menu{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-content: stretch;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#image{
+    margin-left: 300px;
+}
